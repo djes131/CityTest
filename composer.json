@@ -1,0 +1,15 @@
+{
+    "name": "djes131/citytest",
+    "description": "my first test",
+    "license": "MID",
+    "authors": [
+        {
+            "name": "djes131",
+            "email": "djes131@yandex.ua"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload":{
+		"files":["classApartament.php","classAvenue.php","classCity.php","classEstablishment.php","classGenerate.php"]
+	}
+}
